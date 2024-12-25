@@ -34,3 +34,4 @@ if __name__ == "__main__":
 
 # cd ...
 # streamlit run main.py
+# or, streamlit run .\Cold_Email_Generator_Project\app\main.py
