@@ -58,3 +58,6 @@ class Chain:
 
 if __name__ == "__main__":
     print(os.getenv("GROQ_API_KEY"))
+
+if __name__ == "__main__": 
+    print(st.secrets["GROQ_API_KEY"])
