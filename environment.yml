@@ -1,0 +1,28 @@
+name: streamlit-app
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - sqlite>=3.35.0
+  - streamlit
+  - langchain-groq
+  - langchain-core
+  - pydantic
+  - python-dotenv
+  - numpy
+  - pandas
+  - matplotlib
+  - opencv-python
+  - scikit-learn
+  - chromadb
+  - langchain==0.2.14
+  - langchain-community==0.2.12
+  - langchain-groq===0.1.9
+  - unstructured==0.14.6
+  - selenium==4.21.0
+  - chromadb
+  - streamlit==1.35.0
+  - pandas==2.0.2
+  - python-dotenv==1.0.0
+  - pysqlite3-binary
+  - sqlite==3.47.2
