@@ -1,5 +1,5 @@
 # Cold-Email-Generator
-Cold email generator for services company using groq, langchain and streamlit. It allows users to input the URL of a company's careers page. The tool then extracts job listings from that page and generates personalized cold emails. These emails include relevant portfolio links sourced from a vector database, based on the specific job descriptions.
+Cold email generator for services company using Groq, Langchain and streamlit. It allows users to input the URL of a company's careers page. The tool then extracts job listings from that page and generates personalized cold emails. These emails include relevant portfolio links sourced from a vector database, based on the specific job descriptions.
 ** Imagine a scenario:- **
 - Intuit needs a Sr. Machine Learning Engineer and is spending time and resources in the hiring process, on boarding, training, etc.
 - Deloitte is Software Development company can provide a dedicated software development engineer to Intuit. So, the business development executive (Abhisumat) from Deloitte is going to reach out to Intuit via a cold email.
